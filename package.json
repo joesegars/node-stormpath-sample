@@ -1,16 +1,16 @@
 {
-  "name": "node-stormpath",
-  "version": "1.0.0",
-  "description": "RESTful API for synchronizing user notes built on Node.js, Express.js and Stormpath",
-  "main": "app.js",
-  "scripts": {
-    "test": "test"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "body-parser": "^1.15.2",
-    "express": "^4.14.0",
-    "express-stormpath": "^3.1.5"
-  }
+    "name": "node-stormpath",
+    "version": "1.0.0",
+    "description": "RESTful API for synchronizing user notes built on Node.js, Express.js and Stormpath",
+    "main": "app.js",
+    "scripts": {
+        "test": "test"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.15.2",
+        "express": "^4.14.0",
+        "express-stormpath": "^3.1.5"
+    }
 }
